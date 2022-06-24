@@ -1,0 +1,17 @@
+{
+    "pages": [
+        "pages/start/start",
+        "pages/timer/timer",
+        "pages/wifi_station/tianqi/tianqi"
+
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTitleText": "升降晾衣杆",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true
+    },
+    "debug": false,
+    "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,19 @@
+<!--start.wxml-->
+<swiper >
+         <swiper-item><image  src="https://wx1.sinaimg.cn/orj360/007asmNwgy1h3jc0m5uybj301c01c0im.jpg"/></swiper-item>
+</swiper>
+
+<view class="container">
+
+<view class="intro">
+ 不想动手？动动手机就行 科技解放双手
+</view>
+
+<button class="btn1" >控制升降端</button>
+
+<button class="btn1" bindtap="navigate">查询天气</button>
+
+<button class="btn1" bindtap="navigate1">定时
+</button>
+
+</view>
